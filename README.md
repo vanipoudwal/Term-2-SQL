@@ -1,2 +1,2 @@
 # Term-2-SQL
-This repository is used to write SQL Code.
+This Repository Is Used To Write SQL Code.
